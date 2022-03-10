@@ -7,33 +7,25 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
+  name: Roberto Faustino Carrasco Medina # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
-  website: # No agregar http://
-  linkedin: brightcoders
+  email: betocarrasco3652@gmail.com
+  phone: 3131137423
+  linkedin: linkedin.com/in/rcarrasco0/
   github: brightcoders
-  gitlab:
-  bitbucket:
-  twitter: '@BrightCoders'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
+  twitter: "@rcarrasco0"
+  codewars: RobertoCarMed
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: B1 # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -46,71 +38,61 @@ sidebar:
     - item: Time Management
       link: # dejar en blanco
 
+    - item: Problem solving
+      link: # dejar en blanco
+
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    Final semester Software Engineering student looking for an opportunity as a Jr. Developer. Throughout my career I have excelled in practical subjects such as: "Object-oriented programming", "Data structure", "Programming website", etc. I have development knowledge in Ruby on Rails and Jvascript considering Javascript the most dominated language.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: React Native Developer
+    university: Bright Coders Academy
+    time: 2021 Nov - 2022 Mar
     details: |
+      In this bootcamp I have learned the handling of components for mobile development with React Native.
+      I learned how to use dependencies like styled component, react native calendar, lottie for animation handling and react navigation.
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+  - degree: Software Engineer
+    university: Univerty of Colima
+    time: 2018 Ago - 2022 Ago
     details: |
-      Unsupervised deep learning for automatic behavior analysis
+      In my career as a professional I have learned:
 
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
+        - Programming for web development with Javascript
+        - Foundation of agile methodologies, slightly deepening in SCRUM
+        - Foundations for computer networks
+        - Life cycle of software development with traditional methodologies such as waterfall development, spiral development, etc.
 
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
+  - degree: Ruby on Rails Web Developer
+    university: Bright Coders Academy
+    time: 2021 May - 2021 Sep
     details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+      I acquired various knowledge among which stand out:
+        - Management of Active Records
+        - Management of the MVC development scheme
+        - GitHub Management
+        - I learned the use of various gems such as Devise, sass for rails and more
+        - Management of PostgreSQL with Active Records
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Full Stack Developer
+    time: 2 Months
+    company: LetsLearn
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      This project was intended to help teachers and students from different educational institutions to generate study appointments.
+      In this project I participated in the development of authentication using the devise gem. I also participated in the front end development using the sass library to speed up the development of the implemented styles.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: React Developer
+    time: 3 Months
+    company: Freelancer
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Application that intends to display products to customers of a grocery store.
+      In this project I worked with React as the main technology, complementing the development with the use of various work packages such as the node-sass package. The information rendered in the components was obtained from an API using Fetch.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -122,22 +104,25 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
+    - name: Ruby on Rails
       level: 20%
 
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
+    - name: Javascrit
       level: 60%
 
-    - name: Caffe
-      level: 80%
+    - name: React Native
+      level: 40%
 
-    - name: Matlab
-      level: 100%
+    - name: React
+      level: 20%
 
-    - name: C/C++
+    - name: GitHub
+      level: 40%
+
+    - name: HTML
+      level: 60%
+
+    - name: CSS
       level: 40%
 
 # NO MODIFICAR
